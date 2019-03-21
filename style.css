@@ -1,10 +1,13 @@
 div{
 	background:  lightgray;
+	display: inline;
 }
 
 p{
 	background: black;
 	color:  white;
+	display: inline-block;
+	width: 400px;
 }
 
 span{
@@ -13,4 +16,13 @@ span{
 
 a{
 	background:  pink;
+}
+
+img{
+	display: block;
+	width:
+}
+
+p a {
+
 }
